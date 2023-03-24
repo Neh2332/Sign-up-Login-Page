@@ -21,6 +21,5 @@ The Database is linked where the table "Users" has two columns. One is Password 
 
 ## Author
 Made by: Nehmat Farooq
-Student ID: 100819864
 Date: November.27th.2022
 
